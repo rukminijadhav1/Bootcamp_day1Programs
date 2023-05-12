@@ -1,0 +1,37 @@
+NEW ANNOUNCEMENT	
+	
+Hello Everyone, Please go through these commands
+
+pwd - to know the current working directory
+ls - list the files and folders
+ls .. - list the files and folders in parent directory
+ls ../../ - list the files and folders in parent of parent directory
+ls -a - to extract hidden files  
+ls ~   - list all file from root directory
+ls -l - list files in long format
+cd - change the directory
+cd .. & cd ../ - cmd to come out of directory
+cd "path" - cmd to go to specific path
+mkdir - to create new directory
+mkdir -p abc/def/ghi - create nested folders
+rm "filename" - remove/deleting the file
+rm -r class.*  - removes the files of name class
+rmdir "foldername" - remove the folder / directory
+touch - is used to create a file with any extension
+nano "filename" - used to open a file with any extension
+cp "filename" "filename1" - copying content from on efile to another file
+nano "filename" - open file in nano editor
+cat "filename" - open file in shellscript
+cp "filename" "folder" - {here you have to create a folder manually before copying the file} to copy a file to an folder
+mv "filenam" "foler" - {here you have to create a folder manually before copying the file} to move a file to an folder
+head "hello.java" - to print lines of file in forward manner
+    ex - head -2 "hello.java" - prints first 2 lines
+tail "hello.java" - to print lines of file in backward manner
+    ex - tail -3 "hello.java" - prints last 3 lines	
+	
+	
+Open
+	
+	
+Posted 6 Jul by Ramya U	
+
